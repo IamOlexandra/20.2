@@ -38,7 +38,7 @@ function reducer(state, actions) {
             return {
                 ...state,
                 items: [...state.items, actions.item],
-                //energy: state.energy - 50 >= 0 ? state.energy - 50 : 0,
+                energy: state.energy - 50 >= 0 ? state.energy - 50 : 0,
             }
         case "delete_artifact":
             console.log(state.items, actions.id);
