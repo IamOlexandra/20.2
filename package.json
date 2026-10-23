@@ -2,7 +2,7 @@
   "name": "20.2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://iamolexandra.github.io/15.2/",
+  "homepage": "https://iamolexandra.github.io/20.2/",
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
     "@testing-library/jest-dom": "^6.9.1",
